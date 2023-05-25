@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/bin/Debug/net7.0/Exercicio-C--01-ed-
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/bin/Debug/net7.0/Exercicio-C--01-ed-.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/bin/Debug/net7.0/Exercicio-C--01-ed-.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/bin/Debug/net7.0/Exercicio-C--01-ed-.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/bin/Debug/net7.0/Exercicio-C--01-ed-.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/refint/Exercicio-C--01-ed-.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/Exercicio-C--01-ed-.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Exercicio-C--01-ed-/obj/Debug/net7.0/ref/Exercicio-C--01-ed-.dll
